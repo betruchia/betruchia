@@ -78,6 +78,8 @@
   <td height="auto" width="auto">  <div align="center">
   <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+  <img align='center' width=50px alt='GIMP' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
+
   </div></td>
   </tr>
  </table>
