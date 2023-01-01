@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betruchia&theme=2077" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betruchia&theme=tokyonight" /></p>
 
 </div>
 
