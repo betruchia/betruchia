@@ -36,3 +36,48 @@
 </div>
 
 ---
+<div>
+  <h1 align="center">Tech Tools</h1>
+  
+  <table align="center">
+  <tr>
+    <td><h2 align="center">Data Analysis || Data Science</h2></td>
+  </tr>
+  <tr>
+    <td> 
+    <div align="center">
+	<img align="center" alt="python"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+	<img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg""/>
+	<img align='center' alt='jupyter' height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+	<img align='center' alt="pandas"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img align='center' alt="tableau"  height="60" width="60" src="tableau.png" />
+	<img align='center' alt="selenium"  height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
+	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
+     </div></td>
+   <div align="center">
+   </tr>
+   </table>
+
+   <table align="center">
+  <tr>
+    <td><h2 align="center">Databases</h2></td>
+    <td><h2 align="center">Systems</h2></td>
+    <td><h2 align="center">Miscellaneous</h2></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+   <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    </div></td>
+
+  <td height="auto" width="auto">  <div align="center">
+  <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div></td>
+
+  <td height="auto" width="auto">  <div align="center">
+  <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+  </div></td>
+  </tr>
+ </table>
