@@ -17,15 +17,15 @@
 
 ---
 
-div align="center">
+<div align="center">
   <a href="https://github.com/betruchia">
 <img height="170em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=betruchia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betruchia&layout=compact&langs_count=6&theme=tokyonight" />
+<img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 <div align="center">
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betruchia&theme=2077" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=2077" /></p>
 
 </div>
 
