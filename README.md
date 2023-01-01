@@ -4,7 +4,7 @@
 
 <h3 align="center">... I'm currently a TA @ **Ironhack** </h3> 
 
-- :desktop_computer: I've completed **Ironhack**'s Data Analytics bootcamp in May 2022
+- :desktop_computer: I've completed **Ironhack** 's Data Analytics bootcamp in May 2022
 - :bar_chart: I have experience in teaching, python, coding, SQL, webscrapping, machine learning, etc
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: catphilliac
