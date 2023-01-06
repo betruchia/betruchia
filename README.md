@@ -8,7 +8,6 @@
 
 - 🎓 I've completed Ironhack's Data Analytics bootcamp in May 2022
 - 👩‍💻 I have experience in teaching, coding, python, SQL, webscrapping, ETL, data viz, machine learning, etc
-- 🗨 Pronouns: she/her
 - 🗣 Topics of interest: cats, veganism, sustainability, human rights, nomadism, music, heartwarming films and series
 - :sweat_smile: Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics
  
