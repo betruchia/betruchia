@@ -6,10 +6,11 @@
 	I'm currently a TA @ Ironhack
 </h3>
 
-- :computer: I've completed **Ironhack** 's Data Analytics bootcamp in May 2022
-- 👩‍💻 I have experience in teaching, coding, python, SQL, webscrapping, machine learning, data viz, etc
+- 🎓 I've completed Ironhack's Data Analytics bootcamp in May 2022
+- 👩‍💻 I have experience in teaching, coding, python, SQL, webscrapping, ETL, data viz, machine learning, etc
 - 🗨 Pronouns: she/her
-- :sweat_smile: Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics.
+- 🗣 Topics of interest: cats, veganism, sustainability, human rights, music, nomadism
+- :sweat_smile: Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics
  
 <div align="center">
 
@@ -43,7 +44,7 @@
   
   <table align="center">
   <tr>
-    <td><h2 align="center">Data Analysis || Data Science</h2></td>
+    <td><h2 align="center">Data Engineer | Data Analysis | Data Science</h2></td>
   </tr>
   <tr>
     <td> 
