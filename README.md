@@ -1,15 +1,15 @@
 <h1 align="center">
-	Hi there! I'm Patricia - aka Bethania!
+	hi there! i'm patricia - aka bethania!
 </h1>
 
 <h3 align="center">
-	I'm currently a TA @ Ironhack
+	i'm currently a ta @ ironhack
 </h3>
 
-- 🎓 I've completed Ironhack's Data Analytics bootcamp in May 2022
-- 👩‍💻 I have experience in teaching, coding, python, SQL, webscrapping, ETL, data viz, machine learning, etc
-- 🗣 Topics of interest: cats, veganism, sustainability, human rights, music, heartwarming films and series
-- :sweat_smile: Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics
+- 🎓 i've completed ironhack's data analytics bootcamp in may 2022
+- 👩‍💻 i have experience in teaching, coding, python, sql, webscrapping, etl, data viz, machine learning, etc
+- 🗣 topics of interest: cats, veganism, sustainability, human rights, music, heartwarming films and series
+- :sweat_smile: fun facts: i hug tightly, i crack my phalanges and i whistle the songs' melodies when i don't remember the lyrics
  
 <div align="center">
 
@@ -39,11 +39,11 @@
 
 ---
 <div>
-  <h1 align="center">Tech Tools</h1>
+  <h1 align="center">tech tools</h1>
   
   <table align="center">
   <tr>
-    <td><h2 align="center">Data Engineer | Data Analysis | Data Science</h2></td>
+    <td><h2 align="center">data engineer | data analysis | data science</h2></td>
   </tr>
   <tr>
     <td> 
@@ -63,9 +63,9 @@
 
    <table align="center">
   <tr>
-    <td><h2 align="center">Databases</h2></td>
-    <td><h2 align="center">Systems</h2></td>
-    <td><h2 align="center">Miscellaneous</h2></td>
+    <td><h2 align="center">databases</h2></td>
+    <td><h2 align="center">systems</h2></td>
+    <td><h2 align="center">miscellaneous</h2></td>
   </tr>
   <tr>
     <td> 
