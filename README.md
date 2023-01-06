@@ -1,13 +1,15 @@
-<h1 align="center"> 
-	Hi there 👋, I'm Patricia, aka Bethania! <br>
+<h1>
+	Hi there! I'm Patricia - aka Bethania!
 </h1>
 
-<h3 align="center">I'm currently a TA @ Ironhack </h3> 
+<h3>
+	I'm currently a TA @ Ironhack
+</h3>
 
-- :desktop_computer: I've completed **Ironhack** 's Data Analytics bootcamp in May 2022
-- :bar_chart: I have experience in teaching, coding, python, SQL, webscrapping, machine learning, data viz, etc
-- 😄 Pronouns: she/her
-- ⚡ Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics.
+- :computer: I've completed **Ironhack** 's Data Analytics bootcamp in May 2022
+- :technologist::skin-tone-2: I have experience in teaching, coding, python, SQL, webscrapping, machine learning, data viz, etc
+- :speaking_head_in_silhouette: Pronouns: she/her
+- :sweat_smile: Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics.
  
 <div align="center">
 
