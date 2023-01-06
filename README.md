@@ -1,19 +1,19 @@
 <h1 align="center"> 
-	Hi there 👋, I'm Bethania ! <br>
+	Hi there 👋, I'm Patricia, aka Bethania! <br>
 </h1>
 
 <h3 align="center">I'm currently a TA @ Ironhack </h3> 
 
 - :desktop_computer: I've completed **Ironhack** 's Data Analytics bootcamp in May 2022
-- :bar_chart: I have experience in teaching, python, coding, SQL, webscrapping, machine learning, etc
+- :bar_chart: I have experience in teaching, coding, python, SQL, webscrapping, machine learning, data viz, etc
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: catphilliac
+- ⚡ Fun facts: I hug tightly, I crack my phalanges and I whistle the songs' melodies when I don't remember the lyrics.
  
 <div align="center">
 
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciaperuchi@gmail.com)</a>
   <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betruchia/)</a>
-  <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U03NSGXN5M2)</a>
+  <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U036CKGPVMG)</a>
 
 ---
 
