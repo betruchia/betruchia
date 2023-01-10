@@ -52,7 +52,7 @@
 	<img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg""/>
 	<img align='center' alt='jupyter' height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 	<img align='center' alt="pandas"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img align='center' alt="tableau"  height="60" width="60" src="d647dcbb-2f83-4828-b044-82ec17b818c6.jpg" />
+	<img align='center' alt="tableau"  height="60" width="60" src="tableau.png" />
 	<img align='center' alt="selenium"  height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
 	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
 	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
