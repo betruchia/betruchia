@@ -43,7 +43,7 @@
   
   <table align="center">
   <tr>
-    <td><h2 align="center">data engineer | data analysis | data science</h2></td>
+    <td><h2 align="center">data engineer | data analyst | data scientist</h2></td>
   </tr>
   <tr>
     <td> 
