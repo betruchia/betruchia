@@ -7,7 +7,7 @@
 </h3>
 
 - 🎓 i've completed ironhack's data analytics bootcamp in may 2022
-- 👩‍💻 i have experience in teaching, coding, python, sql, webscrapping, etl, data viz, machine learning, etc
+- 👩‍💻 i have experience in teaching, coding, python, regex, sql, webscrapping, etl, data viz, machine learning, etc
 - 🗣 topics of interest: cats, veganism, sustainability, human rights, music, heartwarming films and series
 - :sweat_smile: fun facts: i hug tightly, i crack my phalanges and i whistle the songs' melodies when i don't remember the lyrics
  
