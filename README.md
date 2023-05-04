@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	i'm currently a teacher assistant @ ironhack
+	i'm currently a central teacher assistant @ ironhack
 </h3>
 
 - 🎓 i've completed ironhack's data analytics bootcamp in may 2022
